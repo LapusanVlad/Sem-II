@@ -1,0 +1,16 @@
+{
+  "bancnote": [
+    { "valoare": 50, "stoc": 20 },
+    { "valoare": 20, "stoc": 30 },
+    { "valoare": 10, "stoc": 40 },
+    { "valoare": 5, "stoc": 50 },
+    { "valoare": 1, "stoc": 100 }
+  ],
+  "produse": [
+    { "nume": "Lapte", "pret": 7 },
+    { "nume": "Paine", "pret": 3 },
+    { "nume": "Ciocolata", "pret": 5 },
+    { "nume": "Apa", "pret": 2 },
+    { "nume": "Cafea", "pret": 9 }
+  ]
+}
